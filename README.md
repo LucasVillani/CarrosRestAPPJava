@@ -1,3 +1,3 @@
 # CarrosRestAPPJava
 
-API sobre carros em Java utilizando o SpringFramework
+RestAPP sobre carros em Java utilizando o SpringFramework
